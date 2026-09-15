@@ -14,4 +14,5 @@ Hi!  Estos son enlaces importantes donde podran aprender un poco más sobre el m
  3. [Juego para entender flexbox froggy](https://flexboxfroggy.com/#es)
  4. [Grid](https://cssgridgarden.com/#es)
  5. [Juego para entender css grid](https://cssgridgarden.com/#es)# pruebas_software_enlaces
+ 6. [Formulario](https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms/Form_validation)
     
