@@ -15,4 +15,6 @@ Hi!  Estos son enlaces importantes donde podran aprender un poco más sobre el m
  4. [Grid](https://cssgridgarden.com/#es)
  5. [Juego para entender css grid](https://cssgridgarden.com/#es)# pruebas_software_enlaces
  6. [Formulario](https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms/Form_validation)
+ 7. [Metodología BEM para la creación de clases  en css](https://www.arsys.es/blog/bem-guia-completa-para-css-modular-con-ejemplos)
+ 8. [Extensión Emmet para el autocompletado en visual studio code](https://docs.emmet.io/)
     
