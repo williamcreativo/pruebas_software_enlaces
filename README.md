@@ -5,7 +5,8 @@ Hi!  Estos son enlaces importantes donde podran aprender un poco más sobre el m
 
 # Entender html
 
-[Guia HTML](https://elblogdelprogramador.com/posts/guia-completa-html-principiantes-2025/)
+1. [Guia HTML](https://elblogdelprogramador.com/posts/guia-completa-html-principiantes-2025/)
+2. [Formularios en HTML](https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms/Form_validation)
 
 # Entender css
 
@@ -14,7 +15,6 @@ Hi!  Estos son enlaces importantes donde podran aprender un poco más sobre el m
  3. [Juego para entender flexbox froggy](https://flexboxfroggy.com/#es)
  4. [Grid](https://cssgridgarden.com/#es)
  5. [Juego para entender css grid](https://cssgridgarden.com/#es)# pruebas_software_enlaces
- 6. [Formulario](https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Forms/Form_validation)
- 7. [Metodología BEM para la creación de clases  en css](https://www.arsys.es/blog/bem-guia-completa-para-css-modular-con-ejemplos)
- 8. [Extensión Emmet para el autocompletado en visual studio code](https://docs.emmet.io/)
+ 6. [Metodología BEM para la creación de clases  en css](https://www.arsys.es/blog/bem-guia-completa-para-css-modular-con-ejemplos)
+ 7. [Extensión Emmet para el autocompletado en visual studio code](https://docs.emmet.io/)
     
